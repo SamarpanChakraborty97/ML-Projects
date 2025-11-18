@@ -211,12 +211,11 @@ This repository is part of a personal portfolio. Projects are available for educ
 - 📧 Email: schakr18@terpmail.umd.edu
 - 💼 LinkedIn: [linkedin.com/in/samarpan-chakraborty](https://linkedin.com/in/samarpan-chakraborty)
 - 🐙 GitHub: [github.com/SamarpanChakraborty97](https://github.com/SamarpanChakraborty97)
-- 🌐 Portfolio: [Link to Portfolio]
+- 🌐 Portfolio: [Link](https://www.datascienceportfol.io/schakr18)
 
 ## 🙏 Acknowledgments
 
 - **Apziva** for AI Residency program and project guidance
-- **University of Maryland** for research support
 - Open-source community for excellent ML libraries and frameworks
 
 ---
