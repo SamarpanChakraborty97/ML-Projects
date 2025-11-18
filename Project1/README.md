@@ -168,12 +168,6 @@ Project1/
 - Include customer demographic features
 - Implement A/B testing framework
 
-## 👨‍💻 Author
-
-**Samarpan Chakraborty**
-- Email: schakr18@umd.edu
-- LinkedIn: [Samarpan Chakraborty](https://www.linkedin.com/in/samarpan-chakraborty)
-- Location: Hyattsville, Maryland, USA
 
 ## 📄 License
 
@@ -182,14 +176,7 @@ This project is part of a personal portfolio. Feel free to use it for educationa
 ## 🙏 Acknowledgments
 
 - ACME for providing the customer survey dataset
-- University of Maryland for academic support
 - Apziva for project guidance
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please reach out via:
-- Email: schakr18@umd.edu
-- Phone: 443-370-2535
 
 ---
 
