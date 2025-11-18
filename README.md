@@ -25,7 +25,7 @@ AI-powered page flip detection system for automated mobile document scanning.
 
 **Techniques**: Convolutional Neural Networks, LSTM sequence modeling, Data augmentation, Feature map visualization
 
-**[View Project →](./MonReader/)**
+**[View Project →](./Project4/)**
 
 ---
 
@@ -42,7 +42,7 @@ Robust ML solution predicting customer subscription to term deposit loans with h
 
 **Techniques**: XGBoost, SMOTE for imbalanced data, 5-fold cross-validation, Class weight optimization
 
-**[View Project →](./Term-Deposit-Prediction/)**
+**[View Project →](./Project2/)**
 
 ---
 
@@ -59,7 +59,7 @@ Binary classification system identifying satisfied/unsatisfied customers for foo
 
 **Techniques**: Ensemble learning, SMOTE, Feature importance analysis, K-fold cross-validation
 
-**[View Project →](./Customer-Satisfaction/)**
+**[View Project →](./Project1/)**
 
 ---
 
@@ -76,7 +76,7 @@ Automated talent screening system using NLP and Learning-to-Rank algorithms.
 
 **Techniques**: Lemmatization, Word embeddings, Cosine similarity, Learning-to-Rank, LLMs
 
-**[View Project →](./HR-Talent-Acquisition/)**
+**[View Project →](./Project3/)**
 
 ---
 
