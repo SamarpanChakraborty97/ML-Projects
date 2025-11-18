@@ -189,8 +189,7 @@ This project is part of a personal portfolio. Feel free to use it for educationa
 
 ## 🙏 Acknowledgments
 
-- ACME for providing the customer survey dataset
-- Apziva for project guidance
+- Apziva for providing the customer survey dataset and project guidance
 
 ---
 
