@@ -208,7 +208,7 @@ This repository is part of a personal portfolio. Projects are available for educ
 ## 📧 Contact
 
 **Samarpan Chakraborty**
-- 📧 Email: schakr18@umd.edu
+- 📧 Email: schakr18@terpmail.umd.edu
 - 💼 LinkedIn: [linkedin.com/in/samarpan-chakraborty](https://linkedin.com/in/samarpan-chakraborty)
 - 🐙 GitHub: [github.com/SamarpanChakraborty97](https://github.com/SamarpanChakraborty97)
 - 🌐 Portfolio: [Link to Portfolio]
