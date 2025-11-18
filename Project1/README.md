@@ -59,13 +59,27 @@ pip install -r requirements.txt
 
 ### Required Libraries
 
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- seaborn
-- matplotlib
-- imbalanced-learn (for SMOTE)
+#### Core Dependencies
+- **numpy** (1.26.4) - Numerical computing
+- **pandas** (2.1.4) - Data manipulation and analysis
+- **scipy** (1.11.4) - Scientific computing
+
+#### Machine Learning
+- **scikit-learn** (1.3.2) - Machine learning algorithms
+- **xgboost** (2.0.3) - Gradient boosting framework
+
+#### Deep Learning
+- **tensorflow** (2.15.0) - Deep learning framework
+- **keras** (2.15.0) - Neural network API
+
+#### Optimization & Statistics
+- **statsmodels** (0.14.1) - Statistical modeling
+- **optuna** (3.5.0) - Hyperparameter optimization
+- **lazypredict** (0.2.12) - AutoML utility
+
+#### Visualization
+- **seaborn** (0.13.2) - Statistical data visualization
+- **matplotlib** (3.8.2) - Plotting library
 
 ## 💻 How to Run
 
