@@ -269,9 +269,6 @@ When adding new features or models:
 3. Include evaluation metrics and interpretation
 4. Update this README with new approaches
 
-## License
-
-[Specify your license here]
 
 ## Contact
 
@@ -281,7 +278,7 @@ For questions or issues, please contact:
 
 ## Acknowledgments
 
-This project was developed as part of AI Residency at Apziva, focusing on automating HR talent acquisition and customer subscription prediction using machine learning and NLP techniques.
+This project was developed as part of AI Residency at Apziva, focusing on customer subscription prediction using machine learning and NLP techniques.
 
 ---
 
